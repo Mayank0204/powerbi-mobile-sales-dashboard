@@ -2,14 +2,6 @@
 
 This repository contains a Power BI project focused on analyzing mobile sales data. The dashboard provides interactive insights into sales performance, revenue trends, product categories, and regional breakdowns to support data-driven decision making.
 
-## 📁 Project Structure
-
-├── Mobile Sales Dashboard Project.pbix
-├── data/
-  └── Mobile Sales Data.xlsx
-├── README.md
-└── .gitignore
-
 ## 🚀 Features
 
 - Dynamic visuals for mobile sales by category, region, and time period
